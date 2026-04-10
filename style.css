@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.buttons {
+  margin-bottom: 15px;
+}
+
+button {
+  margin-right: 10px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#breeds div {
+  border: 1px solid white;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+#breeds div:hover {
+  background-color: whitesmoke;
+}
+
+section {
+  margin-top: 20px;
+}
