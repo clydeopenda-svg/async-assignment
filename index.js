@@ -71,7 +71,7 @@ async function fetchBreedById(id) {
   }
 }
 
-//  FETCH DOG FACT ------------------
+// FETCH DOG FACT ------------------
 async function fetchDogFact() {
   status.textContent = "Loading dog fact...";
   factContainer.textContent = "";
